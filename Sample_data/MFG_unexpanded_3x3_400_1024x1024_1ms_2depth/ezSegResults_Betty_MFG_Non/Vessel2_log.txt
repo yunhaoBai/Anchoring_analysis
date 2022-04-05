@@ -1,0 +1,11 @@
+time: 06-Dec-2021 19ː08ː16
+points: TIFF_images_partialDenoise
+composites: Vessel2: vWF  +, Fibrinogen  +, GLUT1  +, / 
+view_data: Vessel2
+view_mask: Vessel2
+named_objects: Vessel2
+blur: 10
+threshold: 0.1
+minimum: 250
+maximum: 20000
+image_cap: 3
