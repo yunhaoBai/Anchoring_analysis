@@ -20,5 +20,5 @@ Step by step instructions are provided in the MATLAB script: "Anchoring_Analysis
 
 Expected output is provided as "vessel2_stepwise_cellRatio_P1_-40to20_example.csv".
 
-Run time is depends on the range of anchoring analysis, for the typical range of -40 to 20, the run time is 254 s. 
+Run time is depends on the range of anchoring analysis, for the typical range of -40 to 20, the run time is 254 s for 1 core.
 
