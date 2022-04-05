@@ -16,7 +16,7 @@ No installation is needed for a computer with MATLAB.
 
 ### 3. Demo and instructions for use
 
-Step by step instructions are provided in the MATLAB script: "Anchoring_Analysis_cellRatio.m". Demo data are under the folder named "Sample_data" in the same folder of the MATLAB script.
+Step by step instructions are provided in the MATLAB script: "Anchoring_Analysis_cellRatio.m". All data used for the anchoring analysis are under the folder named "Sample_data" in the same folder of the MATLAB script.
 
 Expected output is provided as "vessel2_stepwise_cellRatio_P1_-40to20_example.csv".
 
