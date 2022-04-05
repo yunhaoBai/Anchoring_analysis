@@ -1,0 +1,11 @@
+time: 18-Oct-2021 17ː16ː47
+points: TIFF_images_partialDenoise
+composites: Vessel_testSub: Iba1  -, Fibrinogen  +, vWF  +, GLUT1  +, Endoglin_CD105  +, CollagenIV  +, CD31  +, / 
+view_data: Vessel2
+view_mask: Vessel2
+named_objects: Vessel2
+blur: 10
+threshold: 0.05
+minimum: 3000
+maximum: 100000
+image_cap: 5

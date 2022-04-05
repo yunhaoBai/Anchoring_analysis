@@ -1,0 +1,11 @@
+time: 19-Oct-2021 12ː44ː21
+points: TIFF_images_partialDenoise
+composites: Microglia2: HLA-DR  +, CD45  +, Iba1  +, / 
+view_data: Microglia2
+view_mask: Microglia2
+named_objects: Microglia2
+blur: 3
+threshold: 0.3
+minimum: 500
+maximum: 1000000
+image_cap: 5

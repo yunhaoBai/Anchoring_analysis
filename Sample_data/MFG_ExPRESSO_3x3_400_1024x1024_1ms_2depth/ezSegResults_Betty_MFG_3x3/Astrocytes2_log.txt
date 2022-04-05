@@ -1,0 +1,11 @@
+time: 19-Oct-2021 12ː40ː03
+points: TIFF_images_partialDenoise
+composites: Astrocytes2: GFAP  +, GlnSyn  +, / 
+view_data: Astrocytes2
+view_mask: Astrocytes2
+named_objects: Astrocytes2
+blur: 5
+threshold: 1.4
+minimum: 500
+maximum: 10000000
+image_cap: 5
