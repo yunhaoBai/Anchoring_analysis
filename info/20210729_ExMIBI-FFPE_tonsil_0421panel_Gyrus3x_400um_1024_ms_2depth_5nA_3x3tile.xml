@@ -1,0 +1,200 @@
+<DocRoot FileSystem="SAI" RasterStyle="Flyback" DataCollectionMode="TDC_Only">
+  <Root RunTime="2021-07-30T03:57:20">
+    <Comment />
+    <Analyser Variant="TOF" />
+    <UserInfo UserName="Engineer" UserType="Engineer" />
+    <Carousel_Image FilePath="C:\ProgramData\SAI\MiniSIMS 2 Data System\Carousel Images\20210729_ExMIBI_Hippo_0411panel_Gyrus_0411panel.jpg" Enabled="True" />
+    <Point PointName="Point1">
+      <RowNumber0 XAttrib="157430" YAttrib="246100" />
+      <Depth_Profile AcquisitionTime="1" MassRange="200" Bias="Normal" BeamMode="Fine" Polarity="+ Positive" Pulse="Medium" ScanMode="Area" FileName="G:\Sizun\202107_ExMIBI\20210729_ExMIBI-FFPE_tonsil_0421panel_Gyrus3x_400um_1024_ms_2depth_5nA_3x3tile\Point1\RowNumber0\Depth_Profile0\Depth1\Image.bmp" RasterResolution="0" XShift="0" YShift="0" XSize="1024" YSize="1024" XCountScale="1000" ExtractionStartX="0" ExtractionStartY="1024" ExtractionEndX="1024" ExtractionEndY="" GateXSizePercent="100" GateYSizePercent="100" MaxNumberOfLevels="2" EG6Active="false" EG6Filament="0" RecalculationRequired="false" MassGain="0.6701941" MassOffset="0.108585969" TimeResolution="0.6">
+        <Overlays Count="0" />
+        <Markers Count="0" />
+        <BrightnessAndContrast Count="0" />
+        <DPRanges Count="10">
+          <DPRange Label="lb 1" LoMass="1" HiMass="100" LineColour="Black" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 2" LoMass="1" HiMass="100" LineColour="Blue" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 3" LoMass="1" HiMass="100" LineColour="Green" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 4" LoMass="1" HiMass="100" LineColour="Red" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 5" LoMass="1" HiMass="100" LineColour="Orange" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 6" LoMass="1" HiMass="100" LineColour="Yellow" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 7" LoMass="1" HiMass="100" LineColour="Violet" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 8" LoMass="1" HiMass="100" LineColour="Magenta" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 9" LoMass="1" HiMass="100" LineColour="Indigo" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 10" LoMass="1" HiMass="100" LineColour="DarkRed" Enabled="false" MassCubeIndex="-1" />
+        </DPRanges>
+        <MagnetCoil Enabled="false" CurrentDemand="0" />
+      </Depth_Profile>
+    </Point>
+    <Point PointName="Point2">
+      <RowNumber0 XAttrib="153720" YAttrib="246100" />
+      <Depth_Profile AcquisitionTime="1" MassRange="200" Bias="Normal" BeamMode="Fine" Polarity="+ Positive" Pulse="Medium" ScanMode="Area" FileName="G:\Sizun\202107_ExMIBI\20210729_ExMIBI-FFPE_tonsil_0421panel_Gyrus3x_400um_1024_ms_2depth_5nA_3x3tile\Point2\RowNumber0\Depth_Profile0\Depth1\Image.bmp" RasterResolution="0" XShift="0" YShift="0" XSize="1024" YSize="1024" XCountScale="1000" ExtractionStartX="0" ExtractionStartY="1024" ExtractionEndX="1024" ExtractionEndY="" GateXSizePercent="100" GateYSizePercent="100" MaxNumberOfLevels="2" EG6Active="false" EG6Filament="0" RecalculationRequired="false" MassGain="0.6701941" MassOffset="0.108585969" TimeResolution="0.6">
+        <Overlays Count="0" />
+        <Markers Count="0" />
+        <BrightnessAndContrast Count="0" />
+        <DPRanges Count="10">
+          <DPRange Label="lb 1" LoMass="1" HiMass="100" LineColour="Black" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 2" LoMass="1" HiMass="100" LineColour="Blue" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 3" LoMass="1" HiMass="100" LineColour="Green" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 4" LoMass="1" HiMass="100" LineColour="Red" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 5" LoMass="1" HiMass="100" LineColour="Orange" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 6" LoMass="1" HiMass="100" LineColour="Yellow" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 7" LoMass="1" HiMass="100" LineColour="Violet" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 8" LoMass="1" HiMass="100" LineColour="Magenta" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 9" LoMass="1" HiMass="100" LineColour="Indigo" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 10" LoMass="1" HiMass="100" LineColour="DarkRed" Enabled="false" MassCubeIndex="-1" />
+        </DPRanges>
+        <MagnetCoil Enabled="false" CurrentDemand="0" />
+      </Depth_Profile>
+    </Point>
+    <Point PointName="Point3">
+      <RowNumber0 XAttrib="150010" YAttrib="246100" />
+      <Depth_Profile AcquisitionTime="1" MassRange="200" Bias="Normal" BeamMode="Fine" Polarity="+ Positive" Pulse="Medium" ScanMode="Area" FileName="G:\Sizun\202107_ExMIBI\20210729_ExMIBI-FFPE_tonsil_0421panel_Gyrus3x_400um_1024_ms_2depth_5nA_3x3tile\Point3\RowNumber0\Depth_Profile0\Depth1\Image.bmp" RasterResolution="0" XShift="0" YShift="0" XSize="1024" YSize="1024" XCountScale="1000" ExtractionStartX="0" ExtractionStartY="1024" ExtractionEndX="1024" ExtractionEndY="" GateXSizePercent="100" GateYSizePercent="100" MaxNumberOfLevels="2" EG6Active="false" EG6Filament="0" RecalculationRequired="false" MassGain="0.6701941" MassOffset="0.108585969" TimeResolution="0.6">
+        <Overlays Count="0" />
+        <Markers Count="0" />
+        <BrightnessAndContrast Count="0" />
+        <DPRanges Count="10">
+          <DPRange Label="lb 1" LoMass="1" HiMass="100" LineColour="Black" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 2" LoMass="1" HiMass="100" LineColour="Blue" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 3" LoMass="1" HiMass="100" LineColour="Green" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 4" LoMass="1" HiMass="100" LineColour="Red" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 5" LoMass="1" HiMass="100" LineColour="Orange" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 6" LoMass="1" HiMass="100" LineColour="Yellow" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 7" LoMass="1" HiMass="100" LineColour="Violet" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 8" LoMass="1" HiMass="100" LineColour="Magenta" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 9" LoMass="1" HiMass="100" LineColour="Indigo" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 10" LoMass="1" HiMass="100" LineColour="DarkRed" Enabled="false" MassCubeIndex="-1" />
+        </DPRanges>
+        <MagnetCoil Enabled="false" CurrentDemand="0" />
+      </Depth_Profile>
+    </Point>
+    <Point PointName="Point4">
+      <RowNumber0 XAttrib="150010" YAttrib="249870" />
+      <Depth_Profile AcquisitionTime="1" MassRange="200" Bias="Normal" BeamMode="Fine" Polarity="+ Positive" Pulse="Medium" ScanMode="Area" FileName="G:\Sizun\202107_ExMIBI\20210729_ExMIBI-FFPE_tonsil_0421panel_Gyrus3x_400um_1024_ms_2depth_5nA_3x3tile\Point4\RowNumber0\Depth_Profile0\Depth1\Image.bmp" RasterResolution="0" XShift="0" YShift="0" XSize="1024" YSize="1024" XCountScale="1000" ExtractionStartX="0" ExtractionStartY="1024" ExtractionEndX="1024" ExtractionEndY="" GateXSizePercent="100" GateYSizePercent="100" MaxNumberOfLevels="2" EG6Active="false" EG6Filament="0" RecalculationRequired="false" MassGain="0.6701941" MassOffset="0.108585969" TimeResolution="0.6">
+        <Overlays Count="0" />
+        <Markers Count="0" />
+        <BrightnessAndContrast Count="0" />
+        <DPRanges Count="10">
+          <DPRange Label="lb 1" LoMass="1" HiMass="100" LineColour="Black" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 2" LoMass="1" HiMass="100" LineColour="Blue" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 3" LoMass="1" HiMass="100" LineColour="Green" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 4" LoMass="1" HiMass="100" LineColour="Red" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 5" LoMass="1" HiMass="100" LineColour="Orange" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 6" LoMass="1" HiMass="100" LineColour="Yellow" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 7" LoMass="1" HiMass="100" LineColour="Violet" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 8" LoMass="1" HiMass="100" LineColour="Magenta" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 9" LoMass="1" HiMass="100" LineColour="Indigo" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 10" LoMass="1" HiMass="100" LineColour="DarkRed" Enabled="false" MassCubeIndex="-1" />
+        </DPRanges>
+        <MagnetCoil Enabled="false" CurrentDemand="0" />
+      </Depth_Profile>
+    </Point>
+    <Point PointName="Point5">
+      <RowNumber0 XAttrib="153720" YAttrib="249870" />
+      <Depth_Profile AcquisitionTime="1" MassRange="200" Bias="Normal" BeamMode="Fine" Polarity="+ Positive" Pulse="Medium" ScanMode="Area" FileName="G:\Sizun\202107_ExMIBI\20210729_ExMIBI-FFPE_tonsil_0421panel_Gyrus3x_400um_1024_ms_2depth_5nA_3x3tile\Point5\RowNumber0\Depth_Profile0\Depth1\Image.bmp" RasterResolution="0" XShift="0" YShift="0" XSize="1024" YSize="1024" XCountScale="1000" ExtractionStartX="0" ExtractionStartY="1024" ExtractionEndX="1024" ExtractionEndY="" GateXSizePercent="100" GateYSizePercent="100" MaxNumberOfLevels="2" EG6Active="false" EG6Filament="0" RecalculationRequired="false" MassGain="0.6701941" MassOffset="0.108585969" TimeResolution="0.6">
+        <Overlays Count="0" />
+        <Markers Count="0" />
+        <BrightnessAndContrast Count="0" />
+        <DPRanges Count="10">
+          <DPRange Label="lb 1" LoMass="1" HiMass="100" LineColour="Black" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 2" LoMass="1" HiMass="100" LineColour="Blue" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 3" LoMass="1" HiMass="100" LineColour="Green" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 4" LoMass="1" HiMass="100" LineColour="Red" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 5" LoMass="1" HiMass="100" LineColour="Orange" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 6" LoMass="1" HiMass="100" LineColour="Yellow" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 7" LoMass="1" HiMass="100" LineColour="Violet" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 8" LoMass="1" HiMass="100" LineColour="Magenta" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 9" LoMass="1" HiMass="100" LineColour="Indigo" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 10" LoMass="1" HiMass="100" LineColour="DarkRed" Enabled="false" MassCubeIndex="-1" />
+        </DPRanges>
+        <MagnetCoil Enabled="false" CurrentDemand="0" />
+      </Depth_Profile>
+    </Point>
+    <Point PointName="Point6">
+      <RowNumber0 XAttrib="157430" YAttrib="249870" />
+      <Depth_Profile AcquisitionTime="1" MassRange="200" Bias="Normal" BeamMode="Fine" Polarity="+ Positive" Pulse="Medium" ScanMode="Area" FileName="G:\Sizun\202107_ExMIBI\20210729_ExMIBI-FFPE_tonsil_0421panel_Gyrus3x_400um_1024_ms_2depth_5nA_3x3tile\Point6\RowNumber0\Depth_Profile0\Depth1\Image.bmp" RasterResolution="0" XShift="0" YShift="0" XSize="1024" YSize="1024" XCountScale="1000" ExtractionStartX="0" ExtractionStartY="1024" ExtractionEndX="1024" ExtractionEndY="" GateXSizePercent="100" GateYSizePercent="100" MaxNumberOfLevels="2" EG6Active="false" EG6Filament="0" RecalculationRequired="false" MassGain="0.6701941" MassOffset="0.108585969" TimeResolution="0.6">
+        <Overlays Count="0" />
+        <Markers Count="0" />
+        <BrightnessAndContrast Count="0" />
+        <DPRanges Count="10">
+          <DPRange Label="lb 1" LoMass="1" HiMass="100" LineColour="Black" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 2" LoMass="1" HiMass="100" LineColour="Blue" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 3" LoMass="1" HiMass="100" LineColour="Green" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 4" LoMass="1" HiMass="100" LineColour="Red" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 5" LoMass="1" HiMass="100" LineColour="Orange" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 6" LoMass="1" HiMass="100" LineColour="Yellow" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 7" LoMass="1" HiMass="100" LineColour="Violet" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 8" LoMass="1" HiMass="100" LineColour="Magenta" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 9" LoMass="1" HiMass="100" LineColour="Indigo" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 10" LoMass="1" HiMass="100" LineColour="DarkRed" Enabled="false" MassCubeIndex="-1" />
+        </DPRanges>
+        <MagnetCoil Enabled="false" CurrentDemand="0" />
+      </Depth_Profile>
+    </Point>
+    <Point PointName="Point7">
+      <RowNumber0 XAttrib="157430" YAttrib="253640" />
+      <Depth_Profile AcquisitionTime="1" MassRange="200" Bias="Normal" BeamMode="Fine" Polarity="+ Positive" Pulse="Medium" ScanMode="Area" FileName="G:\Sizun\202107_ExMIBI\20210729_ExMIBI-FFPE_tonsil_0421panel_Gyrus3x_400um_1024_ms_2depth_5nA_3x3tile\Point7\RowNumber0\Depth_Profile0\Depth1\Image.bmp" RasterResolution="0" XShift="0" YShift="0" XSize="1024" YSize="1024" XCountScale="1000" ExtractionStartX="0" ExtractionStartY="1024" ExtractionEndX="1024" ExtractionEndY="" GateXSizePercent="100" GateYSizePercent="100" MaxNumberOfLevels="2" EG6Active="false" EG6Filament="0" RecalculationRequired="false" MassGain="0.6701941" MassOffset="0.108585969" TimeResolution="0.6">
+        <Overlays Count="0" />
+        <Markers Count="0" />
+        <BrightnessAndContrast Count="0" />
+        <DPRanges Count="10">
+          <DPRange Label="lb 1" LoMass="1" HiMass="100" LineColour="Black" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 2" LoMass="1" HiMass="100" LineColour="Blue" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 3" LoMass="1" HiMass="100" LineColour="Green" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 4" LoMass="1" HiMass="100" LineColour="Red" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 5" LoMass="1" HiMass="100" LineColour="Orange" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 6" LoMass="1" HiMass="100" LineColour="Yellow" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 7" LoMass="1" HiMass="100" LineColour="Violet" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 8" LoMass="1" HiMass="100" LineColour="Magenta" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 9" LoMass="1" HiMass="100" LineColour="Indigo" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 10" LoMass="1" HiMass="100" LineColour="DarkRed" Enabled="false" MassCubeIndex="-1" />
+        </DPRanges>
+        <MagnetCoil Enabled="false" CurrentDemand="0" />
+      </Depth_Profile>
+    </Point>
+    <Point PointName="Point8">
+      <RowNumber0 XAttrib="153720" YAttrib="253640" />
+      <Depth_Profile AcquisitionTime="1" MassRange="200" Bias="Normal" BeamMode="Fine" Polarity="+ Positive" Pulse="Medium" ScanMode="Area" FileName="G:\Sizun\202107_ExMIBI\20210729_ExMIBI-FFPE_tonsil_0421panel_Gyrus3x_400um_1024_ms_2depth_5nA_3x3tile\Point8\RowNumber0\Depth_Profile0\Depth1\Image.bmp" RasterResolution="0" XShift="0" YShift="0" XSize="1024" YSize="1024" XCountScale="1000" ExtractionStartX="0" ExtractionStartY="1024" ExtractionEndX="1024" ExtractionEndY="" GateXSizePercent="100" GateYSizePercent="100" MaxNumberOfLevels="2" EG6Active="false" EG6Filament="0" RecalculationRequired="false" MassGain="0.6701941" MassOffset="0.108585969" TimeResolution="0.6">
+        <Overlays Count="0" />
+        <Markers Count="0" />
+        <BrightnessAndContrast Count="0" />
+        <DPRanges Count="10">
+          <DPRange Label="lb 1" LoMass="1" HiMass="100" LineColour="Black" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 2" LoMass="1" HiMass="100" LineColour="Blue" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 3" LoMass="1" HiMass="100" LineColour="Green" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 4" LoMass="1" HiMass="100" LineColour="Red" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 5" LoMass="1" HiMass="100" LineColour="Orange" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 6" LoMass="1" HiMass="100" LineColour="Yellow" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 7" LoMass="1" HiMass="100" LineColour="Violet" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 8" LoMass="1" HiMass="100" LineColour="Magenta" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 9" LoMass="1" HiMass="100" LineColour="Indigo" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 10" LoMass="1" HiMass="100" LineColour="DarkRed" Enabled="false" MassCubeIndex="-1" />
+        </DPRanges>
+        <MagnetCoil Enabled="false" CurrentDemand="0" />
+      </Depth_Profile>
+    </Point>
+    <Point PointName="Point9">
+      <RowNumber0 XAttrib="150010" YAttrib="253640" />
+      <Depth_Profile AcquisitionTime="1" MassRange="200" Bias="Normal" BeamMode="Fine" Polarity="+ Positive" Pulse="Medium" ScanMode="Area" FileName="G:\Sizun\202107_ExMIBI\20210729_ExMIBI-FFPE_tonsil_0421panel_Gyrus3x_400um_1024_ms_2depth_5nA_3x3tile\Point9\RowNumber0\Depth_Profile0\Depth1\Image.bmp" RasterResolution="0" XShift="0" YShift="0" XSize="1024" YSize="1024" XCountScale="1000" ExtractionStartX="0" ExtractionStartY="1024" ExtractionEndX="1024" ExtractionEndY="" GateXSizePercent="100" GateYSizePercent="100" MaxNumberOfLevels="2" EG6Active="false" EG6Filament="0" RecalculationRequired="true" MassGain="0.6701941" MassOffset="0.108585969" TimeResolution="0.6">
+        <Overlays Count="0" />
+        <Markers Count="0" />
+        <BrightnessAndContrast Count="0" />
+        <DPRanges Count="10">
+          <DPRange Label="lb 1" LoMass="1" HiMass="100" LineColour="Black" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 2" LoMass="1" HiMass="100" LineColour="Blue" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 3" LoMass="1" HiMass="100" LineColour="Green" Enabled="true" MassCubeIndex="-1" />
+          <DPRange Label="lb 4" LoMass="1" HiMass="100" LineColour="Red" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 5" LoMass="1" HiMass="100" LineColour="Orange" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 6" LoMass="1" HiMass="100" LineColour="Yellow" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 7" LoMass="1" HiMass="100" LineColour="Violet" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 8" LoMass="1" HiMass="100" LineColour="Magenta" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 9" LoMass="1" HiMass="100" LineColour="Indigo" Enabled="false" MassCubeIndex="-1" />
+          <DPRange Label="lb 10" LoMass="1" HiMass="100" LineColour="DarkRed" Enabled="false" MassCubeIndex="-1" />
+        </DPRanges>
+        <MagnetCoil Enabled="false" CurrentDemand="0" />
+      </Depth_Profile>
+    </Point>
+    <Point PointName="Point">
+      <RowNumber0 XAttrib="105410" YAttrib="231140" />
+    </Point>
+  </Root>
+</DocRoot>
